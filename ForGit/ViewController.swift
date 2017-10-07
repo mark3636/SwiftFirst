@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var name = "Mark"
-    var surname = ""
+    var surname = "lukin9"
     var secondname = ""
     var num = 0
     
