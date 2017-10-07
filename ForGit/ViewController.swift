@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     var name = "Mark"
     var surname = ""
+    var secondname = ""
     var num = 0
     
     override func viewDidLoad() {
